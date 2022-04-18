@@ -1,6 +1,20 @@
+```___________________   ____ ___ 
+\_   _____/\______ \ |    |   \
+ |    __)_  |    |  \|    |   /
+ |        \ |    `   \    |  / 
+/_______  //_______  /______/  
+        \/         \/          
+ __      __      ___.          .__  __          
+/  \    /  \ ____\_ |__   _____|__|/  |_  ____  
+\   \/\/   // __ \| __ \ /  ___/  \   __\/ __ \ 
+ \        /\  ___/| \_\ \\___ \|  ||  | \  ___/ 
+  \__/\  /  \___  >___  /____  >__||__|  \___  >
+       \/       \/    \/     \/              \/ 
+```
+
 ```
 @Author: Jorhelp<jorhelp@qq.com>
-@Date: Mon Apr 18 20:02:32 2022
+@Date: Mon Apr 18 20:14:40 2022
 @Desc: 国内高校网址汇总，可以用来做数据分析或数据挖掘，甚至可以批量扫描来渗透测试(遵守法律，不要做出格的事)
 ```
 
@@ -9,7 +23,7 @@
 > 总数: 179
 
 ||||||
-|[中山大学](http://www.sysu.edu.cn)|[华南理工大学](http://www.scut.edu.cn)|[暨南大学](http://www.jnu.edu.cn)|[汕头大学](http://www.stu.edu.cn)|[深圳大学](http://www.szu.edu.cn)|
+|-|-|-|-|-||[中山大学](http://www.sysu.edu.cn)|[华南理工大学](http://www.scut.edu.cn)|[暨南大学](http://www.jnu.edu.cn)|[汕头大学](http://www.stu.edu.cn)|[深圳大学](http://www.szu.edu.cn)|
 |[五邑大学](http://www.wyu.edu.cn)|[广东工业大学](http://www.gdut.edu.cn)|[华南农业大学](http://www.scau.edu.cn)|[广东海洋大学](http://www.gdou.edu.cn)|[广州中医药大学](http://www.gzhtcm.edu.cn)|
 |[南方医科大学](http://www.fimmu.com)|[华南师范大学](http://www.scnu.edu.cn)|[广东外语外贸大学](http://www.gdufs.edu.cn)|[北京师范大学－香港浸会大学联合国际学院](http://uic.edu.hk)|[广州大学](http://www.gzhu.edu.cn)|
 |[广东石油化工学院](http://www.gdpa.edu.cn)|[肇庆学院](http://www.zqu.edu.cn)|[东莞理工学院](http://www.dgut.edu.cn)|[仲恺农业工程学院](http://www.zhku.edu.cn)|[广东医学院](http://www.gdmc.edu.cn)|
@@ -52,7 +66,7 @@
 > 总数: 25
 
 ||||||
-|[海南大学](http://www.hainu.edu.cn)|[海南医学院](http://www.hainmc.edu.cn)|[琼州学院](http://www.qzu.edu.cn)|[海南师范大学](http://www.hainnu.edu.cn)|[海口经济学院](http://www.hkc.edu.cn)|
+|-|-|-|-|-||[海南大学](http://www.hainu.edu.cn)|[海南医学院](http://www.hainmc.edu.cn)|[琼州学院](http://www.qzu.edu.cn)|[海南师范大学](http://www.hainnu.edu.cn)|[海口经济学院](http://www.hkc.edu.cn)|
 |[琼台师范高等专科学校](http://www.qttc.edu.cn)|[三亚城市职业学院](http://www.sycsxy.cn)|[海南职业技术学院](http://www.hcvt.cn)|[三亚航空旅游职业学院](http://www.hnasatc.com)|[海南软件职业技术学院](http://www.hnspi.edu.cn)|
 |[海南外国语职业学院](http://www.hnflvc.com)|[海南政法职业学院](http://www.hnplc.com)|[海南经贸职业技术学院](http://www.hnjmc.com)|[海南工商职业学院](http://www.hntbc.edu.cn)|[海南科技职业学院](http://www.hnkjedu.cn)|
 |[三亚理工职业学院](http://www.ucsanya.com)|[海南大学三亚学院](http://www.syxyhn.com)|[海南热带海洋学院](http://www.hntou.edu.cn/)|[琼台师范学院](http://www.qtnu.edu.cn/)|[三亚学院](http://www.sanyau.edu.cn/)|
@@ -64,7 +78,7 @@
 > 总数: 97
 
 ||||||
-|[广西大学](http://www.gxu.edu.cn)|[桂林电子科技大学](http://www.gliet.edu.cn)|[广西医科大学](http://www.gxmu.edu.cn)|[广西师范大学](http://www.gxnu.edu.cn)|[广西民族大学](http://www.gxun.edu.cn)|
+|-|-|-|-|-||[广西大学](http://www.gxu.edu.cn)|[桂林电子科技大学](http://www.gliet.edu.cn)|[广西医科大学](http://www.gxmu.edu.cn)|[广西师范大学](http://www.gxnu.edu.cn)|[广西民族大学](http://www.gxun.edu.cn)|
 |[桂林理工大学](http://www.glite.edu.cn)|[广西工学院](http://www.gxut.edu.cn)|[广西中医学院](http://www.gxtcmu.edu.cn)|[桂林医学院](http://www.glmc.edu.cn)|[右江民族医学院](http://www.ymcn.gx.cn)|
 |[广西师范学院](http://www.gxtc.edu.cn)|[河池学院](http://www.hcnu.edu.cn)|[玉林师范学院](http://www.ylu.edu.cn)|[广西财经学院](http://www.gxufe.cn)|[广西艺术学院](http://www.gxai.cn)|
 |[百色学院](http://www.bsuc.cn)|[钦州学院](http://www.qzu.net.cn)|[贺州学院](http://www.hzu.gx.cn)|[梧州学院](http://www.gxuwz.edu.cn)|[广西民族师范学院](http://www.gxnun.net)|
@@ -91,7 +105,7 @@
 > 总数: 90
 
 ||||||
-|[贵州大学](http://www.gzu.edu.cn)|[贵州师范大学](http://www.gznu.edu.cn)|[贵阳医学院](http://www.gmc.edu.cn)|[遵义医学院](http://www.zmc.edu.cn)|[贵阳中医学院](http://www.gyctcm.edu.cn)|
+|-|-|-|-|-||[贵州大学](http://www.gzu.edu.cn)|[贵州师范大学](http://www.gznu.edu.cn)|[贵阳医学院](http://www.gmc.edu.cn)|[遵义医学院](http://www.zmc.edu.cn)|[贵阳中医学院](http://www.gyctcm.edu.cn)|
 |[贵州师范学院](http://www.gzhnc.edu.cn)|[黔南民族师范学院](http://www.sgmtu.edu.cn)|[遵义师范学院](http://www.zync.edu.cn)|[毕节学院](http://www.gzbjc.cn)|[贵州财经学院](http://www.gzife.edu.cn)|
 |[贵州民族学院](http://www2.gznc.edu.cn)|[铜仁学院](http://www.gztrc.edu.cn)|[凯里学院](http://www.kluniv.cn)|[安顺学院](http://www.asu.edu.cn)|[贵阳学院](http://www.gyu.cn)|
 |[兴义民族师范学院](http://www.qxntc.edu.cn)|[六盘水师范学院](http://www.lpssz.edu.cn)|[黔南民族医学高等专科学校](http://www.qnmc.cn)|[遵义医药高等专科学校](http://www.zunyiyizhuan.com)|[贵州商业高等专科学校](http://www.gycc.net)|
@@ -116,7 +130,7 @@
 > 总数: 93
 
 ||||||
-|[云南大学](http://www.ynu.edu.cn)|[昆明理工大学](http://www.kmust.edu.cn)|[云南农业大学](http://www.ynau.edu.cn)|[云南师范大学](http://www.ynnu.edu.cn)|[云南财经大学](http://www.ynufe.edu.cn)|
+|-|-|-|-|-||[云南大学](http://www.ynu.edu.cn)|[昆明理工大学](http://www.kmust.edu.cn)|[云南农业大学](http://www.ynau.edu.cn)|[云南师范大学](http://www.ynnu.edu.cn)|[云南财经大学](http://www.ynufe.edu.cn)|
 |[云南民族大学](http://www.ynni.edu.cn)|[西南林业大学](http://www.swfc.edu.cn)|[昆明医学院](http://www.kmmc.cn)|[云南中医学院](http://www.ynutcm.edu.cn)|[红河学院](http://www.uoh.edu.cn)|
 |[楚雄师范学院](http://www.cxtc.edu.cn/)|[玉溪师范学院](http://www.yxtc.edu.cn)|[曲靖师范学院](http://www.qjnu.edu.cn)|[云南警官学院](http://www.ynpsc.edu.cn/)|[云南艺术学院](http://www.ynart.edu.cn)|
 |[大理学院](http://www.dali.edu.cn)|[昆明学院](http://www.kmu.edu.cn)|[文山学院](http://www.wstc.net)|[保山学院](http://www.bsnc.cn)|[云南工商学院](http://www.yngsxy.net/Front/Home.html)|
@@ -142,7 +156,7 @@
 > 总数: 174
 
 ||||||
-|[武汉大学](http://www.whu.edu.cn)|[中南财经政法大学](http://www.znufe.edu.cn)|[华中科技大学](http://www.hust.edu.cn)|[武汉理工大学](http://www.whut.edu.cn)|[中国地质大学](http://www.cug.edu.cn)|
+|-|-|-|-|-||[武汉大学](http://www.whu.edu.cn)|[中南财经政法大学](http://www.znufe.edu.cn)|[华中科技大学](http://www.hust.edu.cn)|[武汉理工大学](http://www.whut.edu.cn)|[中国地质大学](http://www.cug.edu.cn)|
 |[华中农业大学](http://www.hzau.edu.cn)|[华中师范大学](http://www.ccnu.edu.cn)|[中南民族大学](http://www.scuec.edu.cn)|[湖北大学](http://www.hubu.edu.cn)|[长江大学](http://www.yangtzeu.edu.cn)|
 |[三峡大学](http://www.ctgu.edu.cn)|[江汉大学](http://www.jhun.edu.cn)|[武汉科技大学](http://www.wust.edu.cn)|[湖北工业大学](http://www.hbut.edu.cn)|[武汉工程大学](http://www.wit.edu.cn)|
 |[武汉纺织大学](http://www.wuse.edu.cn)|[湖北中医药大学](http://www.hbtcm.edu.cn)|[武汉工业学院](http://www.whpu.edu.cn)|[湖北汽车工业学院](http://www.qcxy.hb.cn)|[湖北医药学院](http://job.hbmu.edu.cn)|
@@ -184,7 +198,7 @@
 > 总数: 149
 
 ||||||
-|[国防科学技术大学](http://www.nudt.edu.cn)|[中南大学](http://www.csu.edu.cn)|[湖南大学](http://www.hnu.cn)|[长沙理工大学](http://www.csust.edu.cn)|[湖南师范大学](http://www.hunnu.edu.cn)|
+|-|-|-|-|-||[国防科学技术大学](http://www.nudt.edu.cn)|[中南大学](http://www.csu.edu.cn)|[湖南大学](http://www.hnu.cn)|[长沙理工大学](http://www.csust.edu.cn)|[湖南师范大学](http://www.hunnu.edu.cn)|
 |[湖南科技大学](http://www.hnust.edu.cn)|[湘潭大学](http://www.xtu.edu.cn)|[吉首大学](http://www.jsu.edu.cn)|[南华大学](http://www.usc.edu.cn)|[湖南工业大学](http://www.zhuzit.edu.cn/cn)|
 |[湖南农业大学](http://www.hunau.net)|[湖南中医药大学](http://www.hnctcm.com)|[中南林业科技大学](http://www.csuft.com)|[长沙学院](http://www.ccsu.cn)|[湖南城市学院](http://www.hncu.net)|
 |[湖南工程学院](http://www.hnie.edu.cn)|[湖南理工学院](http://www.hnist.cn)|[长沙医学院](http://www.csmu.edu.cn)|[衡阳师范学院](http://www.hynu.edu.cn)|[湘南学院](http://www.xnu.edu.cn)|
@@ -221,7 +235,7 @@
 > 总数: 178
 
 ||||||
-|[郑州大学](http://www.zzu.edu.cn)|[河南大学](http://www.henu.edu.cn)|[河南科技大学](http://www.haust.edu.cn)|[河南理工大学](http://www.hpu.edu.cn)|[河南工业大学](http://www.haut.edu.cn)|
+|-|-|-|-|-||[郑州大学](http://www.zzu.edu.cn)|[河南大学](http://www.henu.edu.cn)|[河南科技大学](http://www.haust.edu.cn)|[河南理工大学](http://www.hpu.edu.cn)|[河南工业大学](http://www.haut.edu.cn)|
 |[河南农业大学](http://www.henau.edu.cn)|[河南师范大学](http://www.henannu.edu.cn)|[河南财经政法大学](http://www.huel.edu.cn)|[华北水利水电学院](http://www.ncwu.edu.cn)|[郑州轻工业学院](http://www.zzuli.edu.cn)|
 |[中原工学院](http://www.zzti.edu.cn)|[安阳工学院](http://www.ayit.edu.cn)|[南阳理工学院](http://www.nyist.net)|[黄河科技学院](http://www.hhstu.edu.cn)|[郑州航空工业管理学院](http://www.zzia.edu.cn)|
 |[河南城建学院](http://www.hncj.edu.cn)|[河南中医学院](http://www.hactcm.edu.cn)|[新乡医学院](http://www.xxmu.edu.cn)|[信阳师范学院](http://www.xytc.edu.cn)|[南阳师范学院](http://www.nynu.edu.cn)|
@@ -264,7 +278,7 @@
 > 总数: 140
 
 ||||||
-|[合肥工业大学](http://www.hfut.edu.cn)|[中国科学技术大学](http://www.ustc.edu.cn/)|[安徽大学](http://www.ahu.edu.cn/)|[安徽理工大学](http://www.aust.edu.cn)|[安徽工业大学](http://www.ahut.edu.cn)|
+|-|-|-|-|-||[合肥工业大学](http://www.hfut.edu.cn)|[中国科学技术大学](http://www.ustc.edu.cn/)|[安徽大学](http://www.ahu.edu.cn/)|[安徽理工大学](http://www.aust.edu.cn)|[安徽工业大学](http://www.ahut.edu.cn)|
 |[安徽农业大学](http://www.ahau.edu.cn)|[安徽医科大学](http://www.ahmu.edu.cn)|[安徽师范大学](http://www.ahnu.edu.cn)|[安徽财经大学](http://www.aufe.edu.cn)|[安徽工程大学](http://www.auts.edu.cn/)|
 |[淮北师范大学](http://www.hbcnc.edu.cn)|[安徽建筑工业学院](http://www.aiai.edu.cn)|[安徽中医学院](http://www.ahtcm.edu.cn)|[皖南医学院](http://www.wnmc.edu.cn)|[合肥师范学院](http://www.hftc.edu.cn)|
 |[蚌埠医学院](http://www.bbmc.edu.cn)|[阜阳师范学院](http://www.fync.edu.cn)|[安徽科技学院](http://www.ahstu.edu.cn)|[安庆师范学院](http://www.aqtc.edu.cn)|[淮南师范学院](http://www.hnnu.edu.cn)|
@@ -299,7 +313,7 @@
 > 总数: 128
 
 ||||||
-|[南昌大学](http://www.ncu.edu.cn)|[江西理工大学](http://www.jxust.cn/)|[华东交通大学](http://www.ecjtu.jx.cn)|[江西农业大学](http://www.jxau.edu.cn)|[江西师范大学](http://www.jxnu.edu.cn)|
+|-|-|-|-|-||[南昌大学](http://www.ncu.edu.cn)|[江西理工大学](http://www.jxust.cn/)|[华东交通大学](http://www.ecjtu.jx.cn)|[江西农业大学](http://www.jxau.edu.cn)|[江西师范大学](http://www.jxnu.edu.cn)|
 |[江西财经大学](http://www.jxufe.edu.cn)|[东华理工大学](http://www.ecit.edu.cn)|[南昌航空大学](http://www.nchu.edu.cn/)|[景德镇陶瓷学院](http://www.jci.edu.cn/)|[南昌工程学院](http://www.nit.edu.cn)|
 |[南昌理工学院](http://www.nclg.com.cn)|[江西中医学院](http://www.jxtcmi.com)|[赣南医学院](http://www.gmu.cn/)|[上饶师范学院](http://www.sru.jx.cn)|[赣南师范学院](http://www.gnnu.cn)|
 |[江西科技师范学院](http://www.jxstnu.cn)|[井冈山大学](http://www.jgsu.edu.cn)|[江西科技学院](http://www.jxbsu.com/)|[九江学院](http://www.jju.edu.cn)|[宜春学院](http://www.ycu.jx.cn)|
@@ -332,7 +346,7 @@
 > 总数: 88
 
 ||||||
-|[复旦大学](http://www.fudan.edu.cn)|[同济大学](http://www.tongji.edu.cn)|[上海交通大学](http://www.sjtu.edu.cn)|[华东理工大学](http://www.ecust.edu.cn)|[东华大学](http://www.dhu.edu.cn)|
+|-|-|-|-|-||[复旦大学](http://www.fudan.edu.cn)|[同济大学](http://www.tongji.edu.cn)|[上海交通大学](http://www.sjtu.edu.cn)|[华东理工大学](http://www.ecust.edu.cn)|[东华大学](http://www.dhu.edu.cn)|
 |[华东师范大学](http://www.ecnu.edu.cn)|[上海外国语大学](http://www.shisu.edu.cn)|[上海财经大学](http://www.shufe.edu.cn)|[上海大学](http://www.shu.edu.cn)|[上海理工大学](http://www.usst.edu.cn)|
 |[上海海事大学](http://www.shmtu.edu.cn)|[上海工程技术大学](http://www.sues.edu.cn)|[上海海洋大学](http://www.shfu.edu.cn)|[上海中医药大学](http://www.shutcm.com)|[上海师范大学](http://www.shnu.edu.cn)|
 |[华东政法大学](http://www.ecupl.edu.cn)|[上海海关学院](http://shanghai_edu.customs.gov.cn)|[上海建桥学院](http://www.gench.com.cn)|[上海政法学院](http://www.shupl.edu.cn)|[上海应用技术学院](http://www.sit.edu.cn/)|
@@ -357,7 +371,7 @@
 > 总数: 205
 
 ||||||
-|[南京大学](http://www.nju.edu.cn)|[东南大学](http://www.seu.edu.cn)|[中国矿业大学](http://www.cumt.edu.cn)|[河海大学](http://www.hhu.edu.cn)|[江南大学](http://www.sytu.edu.cn)|
+|-|-|-|-|-||[南京大学](http://www.nju.edu.cn)|[东南大学](http://www.seu.edu.cn)|[中国矿业大学](http://www.cumt.edu.cn)|[河海大学](http://www.hhu.edu.cn)|[江南大学](http://www.sytu.edu.cn)|
 |[南京农业大学](http://www.njau.edu.cn)|[中国药科大学](http://www.cpu.edu.cn)|[南京理工大学](http://www.njust.edu.cn)|[南京航空航天大学](http://www.nuaa.edu.cn)|[苏州大学](http://www.suda.edu.cn)|
 |[扬州大学](http://www.yzu.edu.cn)|[江苏大学](http://www.ujs.edu.cn)|[南京邮电大学](http://www.njupt.edu.cn)|[江苏科技大学](http://www.just.edu.cn)|[南京工业大学](http://www.njut.edu.cn)|
 |[南京林业大学](http://www.njfu.edu.cn)|[南京医科大学](http://www.njmu.edu.cn)|[南京中医药大学](http://www.njutcm.edu.cn)|[南京师范大学](http://www.njnu.edu.cn)|[江苏师范大学](http://www.xznu.edu.cn)|
@@ -405,7 +419,7 @@
 > 总数: 131
 
 ||||||
-|[浙江大学](http://www.zju.edu.cn)|[宁波大学](http://www.nbu.edu.cn)|[浙江工业大学](http://www.zjut.edu.cn)|[杭州电子科技大学](http://www.hdu.edu.cn)|[浙江理工大学](http://www.zist.edu.cn)|
+|-|-|-|-|-||[浙江大学](http://www.zju.edu.cn)|[宁波大学](http://www.nbu.edu.cn)|[浙江工业大学](http://www.zjut.edu.cn)|[杭州电子科技大学](http://www.hdu.edu.cn)|[浙江理工大学](http://www.zist.edu.cn)|
 |[浙江中医药大学](http://www.zjtcm.net)|[浙江师范大学](http://www.zjnu.edu.cn)|[杭州师范大学](http://www.hznu.edu.cn/www/)|[浙江工商大学](http://www.hzic.edu.cn)|[宁波诺丁汉大学](http://www.nottingham.edu.cn)|
 |[温州大学](http://www.wzu.edu.cn)|[浙江农林大学](http://www.zjfc.edu.cn)|[宁波大红鹰学院](http://www.dhyedu.com)|[浙江越秀外国语学院](http://www.yxc.cn)|[嘉兴学院](http://www.zjxu.edu.cn)|
 |[中国计量学院](http://www.cjlu.edu.cn)|[浙江科技学院](http://www.zust.edu.cn)|[宁波工程学院](http://www.nbut.cn)|[浙江海洋学院](http://www.zjou.net.cn)|[温州医学院](http://www.wzmc.net)|
@@ -439,7 +453,7 @@
 > 总数: 186
 
 ||||||
-|[山东大学](http://www.sdu.edu.cn)|[中国海洋大学](http://www.ouc.edu.cn)|[中国石油大学(华东)](http://www.upc.edu.cn)|[青岛大学](http://www.qdu.edu.cn)|[山东科技大学](http://www.sdust.edu.cn)|
+|-|-|-|-|-||[山东大学](http://www.sdu.edu.cn)|[中国海洋大学](http://www.ouc.edu.cn)|[中国石油大学(华东)](http://www.upc.edu.cn)|[青岛大学](http://www.qdu.edu.cn)|[山东科技大学](http://www.sdust.edu.cn)|
 |[山东理工大学](http://www.sdut.edu.cn)|[聊城大学](http://www.lcu.edu.cn)|[烟台大学](http://www.ytu.edu.cn)|[青岛科技大学](http://www.qust.edu.cn)|[青岛理工大学](http://www.qtech.edu.cn)|
 |[济南大学](http://www.ujn.edu.cn)|[山东建筑大学](http://www.sdai.edu.cn)|[山东农业大学](http://www.sdau.edu.cn)|[山东中医药大学](http://www.sdutcm.edu.cn)|[山东师范大学](http://www.sdnu.edu.cn)|
 |[曲阜师范大学](http://www.qfnu.edu.cn)|[鲁东大学](http://www.ldu.edu.cn)|[青岛农业大学](http://www.qau.edu.cn)|[山东轻工业学院](http://www.sdili.edu.cn)|[山东交通学院](http://www.sdjtu.edu.cn)|
@@ -484,7 +498,7 @@
 > 总数: 113
 
 ||||||
-|[厦门大学](http://www.xmu.edu.cn)|[华侨大学](http://www.hqu.edu.cn)|[福建农林大学](http://www.fafu.edu.cn)|[集美大学](http://www.jmu.edu.cn)|[福州大学](http://www.fzu.edu.cn)|
+|-|-|-|-|-||[厦门大学](http://www.xmu.edu.cn)|[华侨大学](http://www.hqu.edu.cn)|[福建农林大学](http://www.fafu.edu.cn)|[集美大学](http://www.jmu.edu.cn)|[福州大学](http://www.fzu.edu.cn)|
 |[仰恩大学](http://www.yeu.edu.cn)|[福建医科大学](http://www.fjmu.edu.cn)|[福建师范大学](http://www.fjtu.edu.cn)|[福建中医药大学](http://www.fjtcm.edu.cn)|[厦门理工学院](http://www.xmut.edu.cn)|
 |[福建工程学院](http://www.fjut.edu.cn)|[泉州师范学院](http://www.qztc.edu.cn)|[漳州师范学院](http://www.fjzs.edu.cn)|[龙岩学院](http://www.lyun.edu.cn)|[莆田学院](http://202.101.111.193)|
 |[闽江学院](http://www.mju.edu.cn)|[三明学院](http://www.smc.edu.cn)|[武夷学院](http://www.nptc.edu.cn)|[福建警察学院](http://www.fjpsc.edu.cn)|[闽南理工学院](http://www.mnust.cn)|
@@ -514,7 +528,7 @@
 > 总数: 117
 
 ||||||
-|[北京大学](http://www.pku.edu.cn)|[中国人民大学](http://www.ruc.edu.cn)|[清华大学](http://www.tsinghua.edu.cn)|[北京交通大学](http://www.njtu.edu.cn)|[北京科技大学](http://www.ustb.edu.cn)|
+|-|-|-|-|-||[北京大学](http://www.pku.edu.cn)|[中国人民大学](http://www.ruc.edu.cn)|[清华大学](http://www.tsinghua.edu.cn)|[北京交通大学](http://www.njtu.edu.cn)|[北京科技大学](http://www.ustb.edu.cn)|
 |[中国石油大学](http://www.cup.edu.cn)|[中国矿业大学](http://www.cumtb.edu.cn)|[中国地质大学](http://www.cugb.edu.cn)|[北京邮电大学](http://www.bupt.edu.cn)|[华北电力大学](http://www.ncepu.edu.cn)|
 |[北京化工大学](http://www.buct.edu.cn/)|[中国农业大学](http://www.cau.edu.cn)|[北京林业大学](http://www.bjfu.edu.cn)|[北京中医药大学](http://www.bucm.edu.cn)|[北京师范大学](http://www.bnu.edu.cn)|
 |[北京外国语大学](http://www.bfsu.edu.cn)|[北京语言大学 ](http://www.blcu.edu.cn)|[对外经济贸易大学](http://www.uibe.edu.cn)|[中央财经大学](http://www.cufe.edu.cn)|[中国政法大学](http://www.cupl.edu.cn)|
@@ -545,7 +559,7 @@
 > 总数: 66
 
 ||||||
-|[南开大学](http://www.nankai.edu.cn)|[天津大学](http://www.tju.edu.cn)|[中国民航大学](http://www.cauc.edu.cn)|[天津工业大学](http://www.tjpu.edu.cn)|[天津科技大学](http://www.tuli.edu.cn)|
+|-|-|-|-|-||[南开大学](http://www.nankai.edu.cn)|[天津大学](http://www.tju.edu.cn)|[中国民航大学](http://www.cauc.edu.cn)|[天津工业大学](http://www.tjpu.edu.cn)|[天津科技大学](http://www.tuli.edu.cn)|
 |[天津理工大学](http://www.tjut.edu.cn)|[天津医科大学](http://www.tijmu.edu.cn)|[天津中医药大学](http://www.tjutcm.edu.cn)|[天津师范大学](http://www.tjnu.edu.cn)|[天津财经大学](http://www.tjufe.edu.cn)|
 |[天津商业大学](http://www.tjcu.edu.cn)|[河北工业大学](http://www.hebut.edu.cn/)|[天津城市建设学院](http://www.tjuci.edu.cn)|[天津农学院](http://www.tjac.edu.cn)|[天津外国语大学](http://www.tjfsu.edu.cn)|
 |[天津职业技术师范大学](http://www.tute.edu.cn)|[天津体育学院](http://www.tjus.edu.cn)|[天津音乐学院](http://www.tjcm.edu.cn)|[天津美术学院](http://www.tjarts.edu.cn)|[天津天狮学院](http://www.tianshi.edu.cn)|
@@ -566,7 +580,7 @@
 > 总数: 86
 
 ||||||
-|[黑龙江大学](http://www.hlju.edu.cn/)|[哈尔滨工业大学](http://www.hit.edu.cn/)|[哈尔滨理工大学](http://www.hrbust.edu.cn/)|[哈尔滨工程大学](http://www.hrbeu.edu.cn/)|[黑龙江科技大学](http://www.usth.edu.cn/)|
+|-|-|-|-|-||[黑龙江大学](http://www.hlju.edu.cn/)|[哈尔滨工业大学](http://www.hit.edu.cn/)|[哈尔滨理工大学](http://www.hrbust.edu.cn/)|[哈尔滨工程大学](http://www.hrbeu.edu.cn/)|[黑龙江科技大学](http://www.usth.edu.cn/)|
 |[东北石油大学](http://www.nepu.edu.cn/)|[佳木斯大学](http://www.jmsu.edu.cn/)|[黑龙江八一农垦大学](http://www.byau.edu.cn/)|[东北农业大学](http://www.neau.edu.cn)|[东北林业大学](https://www.nefu.edu.cn/)|
 |[哈尔滨医科大学](http://www.hrbmu.edu.cn/)|[黑龙江中医药大学](http://www.hljucm.net/)|[牡丹江医学院](http://www.mdjmu.cn/)|[哈尔滨师范大学](http://www.hrbnu.edu.cn/)|[齐齐哈尔大学](http://www.qqhru.edu.cn/)|
 |[牡丹江师范学院](http://www.mdjnu.cn/)|[哈尔滨学院](http://www.hrbu.edu.cn/)|[大庆师范学院](http://www.dqsy.net/)|[绥化学院](http://www.shxy.edu.cn/)|[哈尔滨商业大学](https://www.hrbcu.edu.cn/)|
@@ -591,7 +605,7 @@
 > 总数: 75
 
 ||||||
-|[吉林大学](http://www.jlu.edu.cn)|[东北师范大学](http://www.nenu.edu.cn)|[延边大学](http://www.ybu.edu.cn)|[北华大学](http://www.beihua.edu.cn)|[长春大学](http://www.ccu.edu.cn)|
+|-|-|-|-|-||[吉林大学](http://www.jlu.edu.cn)|[东北师范大学](http://www.nenu.edu.cn)|[延边大学](http://www.ybu.edu.cn)|[北华大学](http://www.beihua.edu.cn)|[长春大学](http://www.ccu.edu.cn)|
 |[长春理工大学](http://www.cust.edu.cn)|[长春工业大学](http://www.ccut.edu.cn)|[吉林农业大学](http://www.jlau.edu.cn)|[长春中医药大学](http://www.ccucm.edu.cn)|[吉林师范大学](http://www.jlnu.edu.cn)|
 |[东北电力大学](http://www.nedu.edu.cn)|[吉林财经大学](http://www.ctu.cc.jl.cn)|[长春工程学院](http://www.ccit.edu.cn)|[吉林建筑工程学院](http://www.jliae.edu.cn)|[吉林化工学院](http://www.jlict.edu.cn)|
 |[吉林农业科技学院](http://www.jlnku.com)|[吉林医药学院](http://www.jlmpc.cn)|[吉林工程技术师范学院](http://www.jltiet.net)|[通化师范学院](http://www.thnu.edu.cn)|[白城师范学院](http://www.bcsfxy.com)|
@@ -613,7 +627,7 @@
 > 总数: 140
 
 ||||||
-|[大连理工大学](http://www.dlut.edu.cn)|[东北大学](http://www.neu.edu.cn)|[大连海事大学](http://www.dlmu.edu.cn)|[辽宁大学](http://www.lnu.edu.cn)|[大连大学](http://www.dlu.edu.cn)|
+|-|-|-|-|-||[大连理工大学](http://www.dlut.edu.cn)|[东北大学](http://www.neu.edu.cn)|[大连海事大学](http://www.dlmu.edu.cn)|[辽宁大学](http://www.lnu.edu.cn)|[大连大学](http://www.dlu.edu.cn)|
 |[沈阳大学](http://www.syu.edu.cn)|[沈阳理工大学](http://www.syit.edu.cn)|[辽宁工程技术大学](http://www.lntu.edu.cn)|[沈阳工业大学](http://www.sut.edu.cn)|[沈阳建筑大学](http://www.sjzu.edu.cn)|
 |[辽宁石油化工大学](http://www.lnpu.edu.cn)|[大连交通大学](http://www.djtu.edu.cn)|[辽宁科技大学](http://www.ustl.edu.cn/)|[辽宁工业大学](http://www.lnit.edu.cn)|[大连工业大学](http://www.dlpu.edu.cn)|
 |[沈阳农业大学](http://www.syau.edu.cn)|[中国医科大学](http://www.cmu.edu.cn)|[大连医科大学](http://www.dlmedu.edu.cn)|[辽宁中医药大学](http://www.lnutcm.edu.cn)|[沈阳药科大学](http://www.syphu.edu.cn)|
@@ -648,7 +662,7 @@
 > 总数: 114
 
 ||||||
-|[西安交通大学](http://www.xjtu.edu.cn)|[长安大学](http://www.chd.edu.cn)|[西安电子科技大学](http://www.xidian.edu.cn)|[西北农林科技大学](http://www.nwsuaf.edu.cn)|[陕西师范大学](http://www.snnu.edu.cn)|
+|-|-|-|-|-||[西安交通大学](http://www.xjtu.edu.cn)|[长安大学](http://www.chd.edu.cn)|[西安电子科技大学](http://www.xidian.edu.cn)|[西北农林科技大学](http://www.nwsuaf.edu.cn)|[陕西师范大学](http://www.snnu.edu.cn)|
 |[西北工业大学](http://www.nwpu.edu.cn)|[西北大学](http://www.nwu.edu.cn)|[延安大学](http://www.yau.edu.cn)|[西安理工大学](http://www.xaut.edu.cn)|[西安建筑科技大学](http://www.xauat.edu.cn)|
 |[西安科技大学](http://www.xust.edu.cn)|[西安石油大学](http://www.xapi.edu.cn)|[西安工程大学](http://www.xpu.edu.cn)|[西安工业大学](http://www.xatu.cn)|[西安外国语大学](http://www.xisu.edu.cn)|
 |[陕西科技大学](http://www.sust.edu.cn)|[西安邮电学院](http://www.xiyou.edu.cn)|[陕西中医学院](http://www.sntcm.edu.cn)|[西安医学院](http://www.xiyi.edu.cn)|[渭南师范学院](http://www.wntc.edu.cn)|
@@ -678,7 +692,7 @@
 > 总数: 88
 
 ||||||
-|[山西大学](http://www.sxu.edu.cn)|[太原理工大学](http://www.tyut.edu.cn)|[中北大学](http://www.nuc.edu.cn)|[太原科技大学](http://www.tyust.edu.cn)|[山西农业大学](http://www.sxau.edu.cn)|
+|-|-|-|-|-||[山西大学](http://www.sxu.edu.cn)|[太原理工大学](http://www.tyut.edu.cn)|[中北大学](http://www.nuc.edu.cn)|[太原科技大学](http://www.tyust.edu.cn)|[山西农业大学](http://www.sxau.edu.cn)|
 |[山西医科大学](http://www.sxmu.edu.cn)|[山西师范大学](http://www.sxnu.edu.cn)|[山西大同大学](http://www.sxdtdx.edu.cn)|[山西财经大学](http://www.sxufe.edu.cn)|[太原工业学院](http://www.tit.edu.cn)|
 |[山西中医学院](http://www.sxtcm.com)|[长治医学院](http://www.czmc.com)|[运城学院](http://www.ycu.edu.cn)|[忻州师范学院](http://www.xztc.edu.cn)|[太原师范学院](http://www.tynu.edu.cn/)|
 |[晋中学院](http://www.sxjztc.edu.cn)|[长治学院](http://www.czc.edu.cn)|[吕梁学院](http://www.llhc.edu.cn)|[山西工商学院](http://www.sxtbu.net)|[太原电力高等专科学校](http://www.sxuec.edu.cn)|
@@ -703,7 +717,7 @@
 > 总数: 60
 
 ||||||
-|[兰州大学](http://www.lzu.edu.cn)|[西北民族大学](http://www.xbmu.edu.cn)|[兰州理工大学](http://www.lut.cn)|[兰州交通大学](http://www.lzjtu.edu.cn)|[甘肃农业大学](http://www.gsau.edu.cn)|
+|-|-|-|-|-||[兰州大学](http://www.lzu.edu.cn)|[西北民族大学](http://www.xbmu.edu.cn)|[兰州理工大学](http://www.lut.cn)|[兰州交通大学](http://www.lzjtu.edu.cn)|[甘肃农业大学](http://www.gsau.edu.cn)|
 |[西北师范大学](http://www.nwnu.edu.cn)|[甘肃中医学院](http://www.gszy.edu.cn)|[陇东学院](http://www.ldxy.edu.cn)|[天水师范学院](http://www.tsnc.edu.cn)|[兰州商学院](http://www.lzcc.edu.cn)|
 |[甘肃政法学院](http://www.gsli.edu.cn)|[兰州城市学院](http://www.lzcu.edu.cn)|[河西学院](http://www.hxu.edu.cn)|[甘肃民族师范学院](http://www.gnun.edu.cn)|[兰州工业高等专科学校](http://www.lzptc.edu.cn)|
 |[平凉医学高等专科学校](http://www.plmc.edu.cn)|[张掖医学高等专科学校](http://www.zymc.edu.cn)|[陇南师范高等专科学校](http://www.lntc.edu.cn)|[定西师范高等专科学校](http://www.dxatc.cn)|[甘肃联合大学](http://www.gsu.edu.cn)|
@@ -722,7 +736,7 @@
 > 总数: 22
 
 ||||||
-|[宁夏大学](http://www.nxu.edu.cn)|[北方民族大学](http://www.nwsni.edu.cn)|[宁夏医科大学](http://www.nxmu.edu.cn/)|[宁夏理工学院](http://www.nxist.com)|[宁夏师范学院](http://www.nxtu.cn)|
+|-|-|-|-|-||[宁夏大学](http://www.nxu.edu.cn)|[北方民族大学](http://www.nwsni.edu.cn)|[宁夏医科大学](http://www.nxmu.edu.cn/)|[宁夏理工学院](http://www.nxist.com)|[宁夏师范学院](http://www.nxtu.cn)|
 |[宁夏民族职业技术学院](http://www.nxmzy.com)|[宁夏工商职业技术学院](http://www.nxjm.com)|[宁夏工业职业学院](http://61.133.209.245/)|[宁夏职业技术学院](http://www.nxtc.edu.cn)|[宁夏建设职业技术学院](http://www.nxjy.edu.cn)|
 |[宁夏财经职业技术学院](http://www.nxcy.edu.cn)|[宁夏司法警官职业学院](http://www.nsjy.com.cn)|[银川科技职业学院](http://www.ycu.com.cn)|[宁夏大学新华学院](http://xinhua.nxu.edu.cn)|[中国矿业大学银川学院](http://www.cumtyc.com.cn)|
 |[银川能源学院](http://www.ycu.com.cn/)|[宁夏警官职业学院](http://www.nsjy.com.cn/)|[宁夏葡萄酒与防沙治沙职业技术学院](http://www.nxfszs.cn/)|[宁夏幼儿师范高等专科学校](http://www.nxpec.edu.cn/)|[宁夏艺术职业学院](http://www.nxtc.edu.cn/)|
@@ -734,7 +748,7 @@
 > 总数: 149
 
 ||||||
-|[河北大学](http://www.hbu.edu.cn)|[河北经贸大学](http://www.heuet.edu.cn)|[燕山大学](http://www.ysu.edu.cn)|[河北联合大学](http://www.heut.edu.cn)|[河北科技大学](http://www.hebust.edu.cn)|
+|-|-|-|-|-||[河北大学](http://www.hbu.edu.cn)|[河北经贸大学](http://www.heuet.edu.cn)|[燕山大学](http://www.ysu.edu.cn)|[河北联合大学](http://www.heut.edu.cn)|[河北科技大学](http://www.hebust.edu.cn)|
 |[河北工程大学](http://www.hebeu.edu.cn)|[河北农业大学](http://www.hebau.edu.cn)|[河北医科大学](http://www.hebmu.edu.cn)|[河北师范大学](http://www.hebtu.edu.cn)|[河北美术学院](http://www.hbafa.com)|
 |[中国人民武装警察部队学院](http://www.wjxy.edu.cn)|[中央司法警官学院](http://www.cicp.edu.cn)|[防灾科技学院](http://www.fzxy.edu.cn)|[华北科技学院](http://www.ncist.edu.cn)|[石家庄铁道大学](http://www.stdu.edu.cn)|
 |[河北建筑工程学院](http://www.hebiace.edu.cn)|[北华航天工业学院](http://www.nciae.edu.cn)|[石家庄经济学院](http://www.sjzue.edu.cn)|[承德医学院](http://www.cdmc.edu.cn)|[河北科技师范学院](http://www.hevttc.edu.cn)|
@@ -771,7 +785,7 @@
 > 总数: 152
 
 ||||||
-|[四川大学](http://www.scu.edu.cn)|[西南交通大学](http://www.swjtu.edu.cn)|[电子科技大学](http://www.uestc.edu.cn)|[西南财经大学](http://www.swufe.edu.cn)|[西南民族大学](http://www.swun.edu.cn)|
+|-|-|-|-|-||[四川大学](http://www.scu.edu.cn)|[西南交通大学](http://www.swjtu.edu.cn)|[电子科技大学](http://www.uestc.edu.cn)|[西南财经大学](http://www.swufe.edu.cn)|[西南民族大学](http://www.swun.edu.cn)|
 |[成都理工大学](http://www.cdut.edu.cn)|[西华大学](http://www.xhu.edu.cn)|[西南科技大学](http://www.swust.edu.cn)|[四川农业大学](http://www.sicau.edu.cn)|[成都中医药大学](http://www.cdutcm.edu.cn)|
 |[四川师范大学](http://www.sicnu.edu.cn)|[西华师范大学](http://www.cwnu.edu.cn)|[中国民用航空飞行学院](http://www.cafuc.edu.cn)|[西南石油大学](http://www.swpu.edu.cn)|[四川理工学院](http://www.sasu.edu.cn/main.asp)|
 |[成都信息工程学院](http://www.cuit.edu.cn)|[泸州医学院](http://www.lzmc.edu.cn)|[川北医学院](http://www.nsmc.edu.cn)|[成都医学院](http://www.cmc.edu.cn)|[乐山师范学院](http://www.lstc.net)|
@@ -809,7 +823,7 @@
 > 总数: 79
 
 ||||||
-|[重庆大学 ](http://www.cqu.edu.cn)|[西南大学](http://www.swu.edu.cn)|[重庆交通大学](http://www.cquc.edu.cn)|[重庆邮电大学](http://www.cqupt.edu.cn)|[重庆医科大学](http://www.cqmu.edu.cn)|
+|-|-|-|-|-||[重庆大学 ](http://www.cqu.edu.cn)|[西南大学](http://www.swu.edu.cn)|[重庆交通大学](http://www.cquc.edu.cn)|[重庆邮电大学](http://www.cqupt.edu.cn)|[重庆医科大学](http://www.cqmu.edu.cn)|
 |[重庆师范大学](http://www.cqnu.edu.cn)|[重庆工商大学](http://www.ctbu.edu.cn)|[西南政法大学](http://www.swupl.edu.cn)|[重庆科技学院](http://www.cqust.cn)|[重庆理工大学](http://www.cqut.edu.cn/)|
 |[长江师范学院](http://www.yznu.cn)|[四川外语学院](http://www.sisu.edu.cn)|[四川美术学院](http://www.scfai.edu.cn)|[重庆三峡学院](http://www.sanxiau.net)|[重庆文理学院](http://www.cqwu.net)|
 |[重庆电力高等专科学校](http://www.cqepc.com.cn)|[重庆医药高等专科学校](http://www.cqyygz.com)|[重庆三峡医药高等专科学校](http://www.sxyyc.net)|[重庆电子工程职业学院](http://www.cqcet.com)|[重庆工业职业技术学院](http://www.cqipc.net)|
@@ -832,7 +846,7 @@
 > 总数: 9
 
 ||||||
-|[西藏大学](http://www.utibet.edu.cn)|[西藏藏医学院](http://www.ttmc.edu.cn)|[西藏民族学院](http://www.xzmy.edu.cn)|[拉萨师范高等专科学校](http://www.xzlssf.org)|[西藏警官高等专科学校](http://www.tpa.net.cn)|
+|-|-|-|-|-||[西藏大学](http://www.utibet.edu.cn)|[西藏藏医学院](http://www.ttmc.edu.cn)|[西藏民族学院](http://www.xzmy.edu.cn)|[拉萨师范高等专科学校](http://www.xzlssf.org)|[西藏警官高等专科学校](http://www.tpa.net.cn)|
 |[西藏职业技术学院](http://www.xzgzy.cn)|[西藏农牧学院](http://www.xza.edu.cn/)|[西藏民族大学](http://www.xzmu.edu.cn/)|[西藏藏医药大学](http://www.ttmc.edu.cn/)||
 
 
@@ -841,7 +855,7 @@
 > 总数: 13
 
 ||||||
-|[青海大学](http://www.qhu.edu.cn)|[青海师范大学](http://www.qhnu.edu.cn)|[青海民族大学](http://www.qhmu.edu.cn)|[青海畜牧兽医职业技术学院](http://www.qhxmzy.com.cn)|[青海卫生职业技术学院](http://www.qhwszy.edu.cn)|
+|-|-|-|-|-||[青海大学](http://www.qhu.edu.cn)|[青海师范大学](http://www.qhnu.edu.cn)|[青海民族大学](http://www.qhmu.edu.cn)|[青海畜牧兽医职业技术学院](http://www.qhxmzy.com.cn)|[青海卫生职业技术学院](http://www.qhwszy.edu.cn)|
 |[青海交通职业技术学院](http://www.qhctc.edu.cn/)|[青海建筑职业技术学院](http://www.qhnews.com/bdt/jt/jzxy/)|[青海警官职业学院](http://www.qhjyedu.com/structure/)|[青海大学昆仑学院](http://www.klxy.com.cn/)|[西宁城市职业技术学院](http://www.xncsxy.cn/)|
 |[青海高等职业技术学院](http://www.qhgzy.com/)|[青海柴达木职业技术学院](http://www.qhcdmzy.com.cn/)|[青海大学医学院](http://www.qhmc.edu.cn/)|||
 
@@ -851,7 +865,7 @@
 > 总数: 58
 
 ||||||
-|[内蒙古大学](http://www.imu.edu.cn)|[内蒙古科技大学](http://www.imust.cn)|[内蒙古民族大学](http://www.imun.edu.cn)|[内蒙古工业大学](http://www.imut.edu.cn)|[内蒙古农业大学](http://www.imau.edu.cn)|
+|-|-|-|-|-||[内蒙古大学](http://www.imu.edu.cn)|[内蒙古科技大学](http://www.imust.cn)|[内蒙古民族大学](http://www.imun.edu.cn)|[内蒙古工业大学](http://www.imut.edu.cn)|[内蒙古农业大学](http://www.imau.edu.cn)|
 |[内蒙古师范大学](http://www.imnu.edu.cn)|[内蒙古医学院](http://www.immc.edu.cn)|[呼伦贝尔学院](http://www.hlbrc.cn)|[呼和浩特民族学院](http://www.imnc.edu.cn)|[赤峰学院](http://www.cfxy.cn)|
 |[集宁师范学院](http://www.jnsz.nm.cn)|[内蒙古财经学院](http://www.imfec.edu.cn)|[乌兰察布医学高等专科学校](http://www.wlcbswx.com)|[河套大学](http://www.hetaodaxue.com)|[包头职业技术学院](http://www.btzyjsxy.cn)|
 |[内蒙古建筑职业技术学院](http://www.imaa.edu.cn)|[乌海职业技术学院](http://www.whvtc.net)|[包头钢铁职业技术学院](http://www.btsvc.net/)|[科尔沁艺术职业学院](http://www.keqysxy.com.cn)|[包头铁道职业技术学院](http://www.bttzy.com/)|
@@ -870,7 +884,7 @@
 > 总数: 58
 
 ||||||
-|[新疆大学](http://www.xju.edu.cn)|[石河子大学](http://www.shzu.edu.cn)|[新疆农业大学](http://www.xjau.edu.cn)|[塔里木大学](http://www.taru.edu.cn)|[新疆医科大学](http://www.xjmu.edu.cn)|
+|-|-|-|-|-||[新疆大学](http://www.xju.edu.cn)|[石河子大学](http://www.shzu.edu.cn)|[新疆农业大学](http://www.xjau.edu.cn)|[塔里木大学](http://www.taru.edu.cn)|[新疆医科大学](http://www.xjmu.edu.cn)|
 |[新疆师范大学](http://www.xjnu.edu.cn)|[喀什师范学院](http://www.kstc.edu.cn)|[伊犁师范学院](http://www.ylsy.edu.cn)|[新疆财经大学](http://www.xjufe.edu.cn)|[新疆艺术学院](http://www.xjart.edu.cn)|
 |[昌吉学院](http://www.cjc.net.cn)|[新疆工业高等专科学校](http://www.xgz.edu.cn)|[新疆维吾尔医学专科学校](http://www.xjumc.cn/)|[和田师范专科学校](http://www.htszedu.cn/)|[新疆警官高等专科学校](http://www.xjjz.cn)|
 |[新疆兵团警官高等专科学校](http://www.xjbtjx.com)|[乌鲁木齐职业大学](http://www.uvu.edu.cn)|[新疆农业职业技术学院](http://www.xjnzy.edu.cn)|[克拉玛依职业技术学院](http://www.kzjsxy.net)|[新疆机电职业技术学院](http://www.xjjd.com.cn/)|
@@ -889,7 +903,7 @@
 > 总数: 27
 
 ||||||
-|[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
+|-|-|-|-|-||[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
 |[香港城市大学](http://www.cityu.edu.hk)|[香港岭南大学](http://www.ln.edu.hk)|[香港教育学院](http://www.ied.edu.hk)|[澳门大学](http://www.umac.mo)|[澳门理工学院](http://www.ipm.edu.mo)|
 |[澳门科技大学](http://www.must.edu.mo)|[澳门城市大学](http://www.cityu.edu.mo)|[澳门镜湖护理学院](http://www.kwnc.edu.mo)|[澳门旅游学院](http://www.ift.edu.mo)|[台湾中央大学](http://www.ncu.edu.tw)|
 |[台湾清华大学](http://www.nthu.edu.tw)|[交通大学](http://www.nctu.edu.tw)|[台湾大学](http://www.ntu.edu.tw)|[嘉义大学](http://www.ncyu.edu.tw)|[元智大学](http://www.yzu.edu.tw)|
@@ -902,7 +916,7 @@
 > 总数: 29
 
 ||||||
-|[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
+|-|-|-|-|-||[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
 |[香港城市大学](http://www.cityu.edu.hk)|[香港岭南大学](http://www.ln.edu.hk)|[香港教育学院](http://www.ied.edu.hk)|[澳门大学](http://www.umac.mo)|[澳门理工学院](http://www.ipm.edu.mo)|
 |[澳门科技大学](http://www.must.edu.mo)|[澳门城市大学](http://www.cityu.edu.mo)|[澳门镜湖护理学院](http://www.kwnc.edu.mo)|[澳门旅游学院](http://www.ift.edu.mo)|[台湾中央大学](http://www.ncu.edu.tw)|
 |[台湾清华大学](http://www.nthu.edu.tw)|[交通大学](http://www.nctu.edu.tw)|[台湾大学](http://www.ntu.edu.tw)|[嘉义大学](http://www.ncyu.edu.tw)|[元智大学](http://www.yzu.edu.tw)|
@@ -915,7 +929,7 @@
 > 总数: 29
 
 ||||||
-|[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
+|-|-|-|-|-||[香港大学](http://www.hku.hk)|[香港科技大学](http://www.ust.hk)|[香港理工大学](http://www.polyu.edu.hk)|[香港中文大学](http://www.cuhk.edu.hk)|[香港浸会大学](http://www.hkbu.edu.hk)|
 |[香港城市大学](http://www.cityu.edu.hk)|[香港岭南大学](http://www.ln.edu.hk)|[香港教育学院](http://www.ied.edu.hk)|[澳门大学](http://www.umac.mo)|[澳门理工学院](http://www.ipm.edu.mo)|
 |[澳门科技大学](http://www.must.edu.mo)|[澳门城市大学](http://www.cityu.edu.mo)|[澳门镜湖护理学院](http://www.kwnc.edu.mo)|[澳门旅游学院](http://www.ift.edu.mo)|[台湾中央大学](http://www.ncu.edu.tw)|
 |[台湾清华大学](http://www.nthu.edu.tw)|[交通大学](http://www.nctu.edu.tw)|[台湾大学](http://www.ntu.edu.tw)|[嘉义大学](http://www.ncyu.edu.tw)|[元智大学](http://www.yzu.edu.tw)|

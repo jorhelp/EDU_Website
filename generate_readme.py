@@ -4,8 +4,15 @@
 # @Date: 2022年 4月18日 星期一 19时28分38秒 CST
 # @Desc: 将 json 写进 README.md 文件
 
+import os
 import time
 import json
+import pyfiglet
+
+
+def title() -> None:
+    fig = pyfiglet.Figlet(font="graffiti")
+    return f"```{fig.renderText('EDU Website')}```\n\n"
 
 
 def header() -> str:
@@ -22,6 +29,7 @@ with open('edu.json', 'r') as f:
 
 
 with open('README.md', 'w') as f:
+    f.write(title())
     f.write(header())
 
     col_num = 5
@@ -31,6 +39,7 @@ with open('README.md', 'w') as f:
 
         # 构造一个表格
         f.write('|' * (col_num + 1) + '\n')  # 共 5 列
+        f.write('-'.join(['|'] * (col_num + 1)))
         _count = 0
         _tmp = '|'
         for name, url in vals.items():
