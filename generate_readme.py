@@ -11,8 +11,8 @@ import pyfiglet
 
 
 def title() -> None:
-    fig = pyfiglet.Figlet(font="graffiti")
-    return f"```{fig.renderText('EDU Website')}```\n\n"
+    fig = pyfiglet.Figlet(font="graffiti", width=2000)
+    return f"```\n{fig.renderText('EDU-Website')}\n```\n\n"
 
 
 def header() -> str:
@@ -39,7 +39,7 @@ with open('README.md', 'w') as f:
 
         # 构造一个表格
         f.write('|' * (col_num + 1) + '\n')  # 共 5 列
-        f.write('-'.join(['|'] * (col_num + 1)))
+        f.write('-'.join(['|'] * (col_num + 1)) + '\n')
         _count = 0
         _tmp = '|'
         for name, url in vals.items():
